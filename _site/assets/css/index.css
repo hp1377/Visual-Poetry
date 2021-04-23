@@ -1,0 +1,11 @@
+.siteTitle {
+	display: flex;
+	flex-direction: column;
+	justify-content: right;
+}
+
+.siteTitleContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
